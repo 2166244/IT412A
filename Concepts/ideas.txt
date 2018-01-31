@@ -3,3 +3,8 @@
        the  best tourist spots in a specific place. It lets the user know how
        kilometers or meters far you are from the specific place and lets you discover
        what activities are there in that place.
+
+2. Palengkera Mobile App
+     - App where the "palengke" is at your doorstep. If you dont have time 
+       to do the market, this app can be used. Just list the items and just 
+       wait until your items are delivered. 

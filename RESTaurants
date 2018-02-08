@@ -1,9 +1,12 @@
+RESTaurant
+ - is a mobile application that can help food
 Beneficiaries:
-  * Business owners
-  * Customers
-  * Staffs and crews
+  * Business owners -  they can advertise thier food business through online
+  * Customers - it can save their time finding restaurant where they can eat
+  * Staffs and crews - they can prepare in advance the orders
   
 Features:
-  * List of menu
+  * List of menu (available or unavailable)
   * Reservation
-  * Notifications
+  * Notifications (close or open)
+  * Promos

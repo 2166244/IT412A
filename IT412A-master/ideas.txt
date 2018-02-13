@@ -1,0 +1,19 @@
+1. Tourist app
+     - an app where it lets the tourist search for a specific place where is 
+       the  best tourist spots in a specific place. It lets the user know how
+       kilometers or meters far you are from the specific place and lets you discover
+       what activities are there in that place.
+
+2. Palengkera Mobile App
+     - App where the "palengke" is at your doorstep. If you dont have time 
+       to do the market, this app can be used. Just list the items and just 
+       wait until your items are delivered. 
+
+3. RESTaurants - an application ready to let the customers find a nearby restaurants
+if it's ready on the go for seats and food in the menu.
+
+4. Help! - Help at your dooor step! Mobile app that helps you when you have problems in your devices(mobile, PC, and laptop). Tell us your problem and we'll send your solution. Easy!
+
+5. Criminal scanner app - a mobile app that will inform the people of the wanter and possible criminals around their area and when every they come close to one. It will hold a database of criminals updated of course by highly professional people concern on that area. It has a feature the alert button which will quickly inform the nearest police station and show them the location through GPS.
+
+6. SlU Portal mobile - mobile version of the slu portal.

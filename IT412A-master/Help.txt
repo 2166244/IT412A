@@ -1,0 +1,4 @@
+1.) Compose a message - tells or detects your address (can be detected by phone auto location), gives an overview
+  on the specific problem you're handling with that technolog.
+2.) Settings - where you can edit your general settings regarding your address, email accounts, passwords, etc.
+3.) Profile - Name emails, reviews, contact numbers, etc.

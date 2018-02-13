@@ -1,0 +1,14 @@
+1. Tourist app
+     - an app where it lets the tourist search for a specific place where is 
+       the  best tourist spots in a specific place. It lets the user know how
+       kilometers or meters far you are from the specific place and lets you discover
+       what activities are there in that place.
+
+2. Palengkera Mobile App
+     - App where the "palengke" is at your doorstep. If you dont have time 
+       to do the market, this app can be used. Just list the items and just 
+       wait until your items are delivered. 
+
+3. RESTaurants 
+     - an application ready to let the customers find a nearby restaurants
+       if it's ready on the go for seats and food in the menu.

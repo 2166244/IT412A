@@ -12,3 +12,8 @@
 3. RESTaurants 
      - an application ready to let the customers find a nearby restaurants
        if it's ready on the go for seats and food in the menu.
+
+4. iGrow
+     - is a mobile application intended for farmers to track the growth of their
+     plants for them to be able to manage very well when the plants are need of
+     inorganic fertilizers and pesticides.

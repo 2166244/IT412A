@@ -17,3 +17,9 @@
      - is a mobile application intended for farmers to track the growth of their
      plants for them to be able to manage very well when the plants are need of
      inorganic fertilizers and pesticides.
+     
+5. 2U
+     - is a mobile application for Saint Louis University students who wants
+     to buy and sell 2nd hand school necessities in a cheaper price than the
+     original price. Which in this case, students can gain money in their old
+     stuffs and can help schoolmates in buying stuffs in a thrifty manner.
